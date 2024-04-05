@@ -107,6 +107,9 @@
         "deleting-a-contact": "Deleting a contact: -",
         "editing-a-contact": "Editing a contact: +",
         "toggle-display": "Toggle display: $",
+        "list-ls": "List: ls",
+        "add-tag-tag": "Add Tag: tag+",
+        "delete-tag-tag": "Delete Tag: tag-",
         "undo-undo": "Undo: undo",
         "redo-redo": "Redo: redo",
         "register-register": "Register: register",
@@ -114,6 +117,7 @@
         "logout-logout": "Logout: logout",
         "sort": "Sort",
         "delete-sample-data": "Delete sample data",
+        "information-security": "Information security",
         "hi-re-user-guide": "Hi:Re User Guide",
         "table-of-contents": "Table of Contents",
         "welcome-note": "Welcome Note",
@@ -124,6 +128,7 @@
         "faq": "FAQ",
         "known-issues": "Known issues",
         "command-summary": "Command summary",
+        "future-integrations": "Future Integrations",
         "support-and-feedback": "Support and Feedback"
       },
       "headingKeywords": {}

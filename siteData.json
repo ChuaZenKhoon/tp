@@ -122,6 +122,7 @@
         "delete-tag-tag": "Delete Tag: tag-",
         "undoing-a-command-undo": "Undoing a Command: undo",
         "redoing-a-command-redo": "Redoing a Command: redo",
+        "exporting-data": "Exporting data: @",
         "built-in-features": "Built-In Features",
         "sort": "Sort",
         "delete-sample-data": "Delete sample data",

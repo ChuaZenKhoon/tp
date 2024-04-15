@@ -95,16 +95,16 @@ with(this){return _c('p',[_c('img',{attrs:{"src":"/tp/images/ui/startUp.png","wi
 with(this){return _c('li',[_c('p',[_v("Type commands in the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("command box")]),_v(" and press the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[Enter]")]),_v(" key to execute it, but first...")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('a',{attrs:{"href":"#registering-an-account-coderegistercode"}},[_v("Register")]),_v(" an account before you are ready to use Hi:Re!")])])}
+with(this){return _c('li',[_c('p',[_c('a',{attrs:{"href":"#registering-an-account-register"}},[_v("Register")]),_v(" an account before you are ready to use Hi:Re!")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_c('a',{attrs:{"href":"#login-into-account-codelogincode"}},[_v("Log into")]),_v(" your newly registered account with the correct username and password!")])])}
+with(this){return _c('li',[_c('p',[_c('a',{attrs:{"href":"#login-into-account-login"}},[_v("Log into")]),_v(" your newly registered account with the correct username and password!")])])}
 },function anonymous(
 ) {
 with(this){return _c('li',[_c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"#commands"}},[_v("Commands")]),_v(" below for details of each command.")])])}
 },function anonymous(
 ) {
-with(this){return _c('li',[_c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"#features"}},[_v("Built-In Features")]),_v(" below for details of built-in features.")])])}
+with(this){return _c('li',[_c('p',[_v("Refer to the "),_c('a',{attrs:{"href":"#built-in-features"}},[_v("Built-In Features")]),_v(" below for details of built-in features.")])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticStyle:{"text-align":"right"}},[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("\n    back to top\n    ")])])}
@@ -551,6 +551,6 @@ with(this){return _c('p',[_v("Should you have any enquiries or feedback, do reac
 with(this){return _c('div',{staticStyle:{"text-align":"right"}},[_c('a',{attrs:{"href":"#table-of-contents"}},[_v("\n    back to top\n    ")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Mon, 15 Apr 2024, 15:38:33 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Mon, 15 Apr 2024, 16:19:33 GMT+8]")])])])}
 }];
   

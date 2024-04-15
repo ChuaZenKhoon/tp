@@ -58,7 +58,11 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
-        "deleting-a-person": "Deleting a person",
+        "adding-a-contact": "Adding a contact",
+        "deleting-a-contact": "Deleting a contact",
+        "clearing-the-addressbook": "Clearing the addressbook",
+        "adding-tags": "Adding tags",
+        "deleting-tags": "Deleting tags",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}

@@ -48,7 +48,7 @@
         "implementation": "Implementation",
         "implemented-edit-feature": "[Implemented] Edit feature",
         "implemented-undo-redo-feature": "[Implemented] Undo/redo feature",
-        "proposed-data-archiving": "[Proposed] Data archiving",
+        "implemented-data-archiving": "[Implemented] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",

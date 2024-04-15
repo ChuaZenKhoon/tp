@@ -63,6 +63,9 @@
         "clearing-the-addressbook": "Clearing the addressbook",
         "adding-tags": "Adding tags",
         "deleting-tags": "Deleting tags",
+        "register-an-account": "Register an account",
+        "login-an-account": "Login an account",
+        "logout-an-account": "Logout an account",
         "saving-data": "Saving data"
       },
       "headingKeywords": {}

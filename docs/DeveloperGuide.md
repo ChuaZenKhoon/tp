@@ -1085,7 +1085,21 @@ In developing Hi:Re, we are proud to have done the following given the constrain
 ### List of Planned Enhancements
 <br>
 
-#### 1. Enforcement of Case-sensitivity for Delete command
+#### 1. Forced Lowercase for Tags
+
+Currently, **tags** can contain both lowercase and uppercase letters. This does not allow for multiple tags with the same
+alphanumeric characters, but different casing. This can result in the issue of the contacts database having excessive/unnecessary
+tags.
+
+**Consider this example:**
+
+1) **tagname 1**: `Sales`
+2) **tagname 2**: `sales`
+3) **tagname 3**: `saLes`
+
+If a user enters the command `ls SALES`, all contacts with all the tags listed above will be listed. Whilst this does not
+inherently pose an issue, it means there might be unnecessarily added tags in the contact database. We plan to change this
+in the future iterations of **Hi:Re**.
 
 One of our users brought up the issue of the **Delete** command being case-insensitive. For example, a contact with ID `alex123`
 could be deleted by using the command `- /id AlEx123`. For commands that make amendments to the contact list, it would be

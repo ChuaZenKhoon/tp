@@ -19,7 +19,7 @@
 **Account Management**
 
 1) [Registering an account](#registering-an-account-register)
-2) [Log in to account](#login-into-account-login)
+2) [Log in to account](#log-in-to-account-login)
 3) [Logout from account](#logout-from-account-logout)
 ---
 **Essential Features**
@@ -48,7 +48,7 @@
 **Additional information**
 
 - [Built-In Features](#built-in-features)
-- [Design Methodology](#design-methodology)
+- [Design Philosophy](#design-philosophy)
 - [FAQ](#faq)
 - [Known Issues](#known-issues)
 - [Command Summary](#command-summary)
@@ -56,6 +56,7 @@
 - [Support and Feedback](#support-and-feedback)
 
 ---
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
 ## Welcome Note
 Greetings HR executives, managers and employees! 
@@ -67,7 +68,7 @@ Greetings HR executives, managers and employees!
 
 *Hi:Re, our one-stop employee profiling application is for you!*
 
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 
 #### User Guide Purpose:
 
@@ -166,6 +167,7 @@ Contacts are also required to be labelled with <u>minimally one</u> mandatory ta
     back to top
     </a>
   </div>
+
 ---
 <div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
@@ -433,22 +435,23 @@ Upon successful log out, you will see a similar GUI as illustrated below.<br>
 
    * Invalid name
    
-   <img src="images/ui/add/invalidname.png" width="452.5"><br><br>
+   <img src="images/ui/add/invalidname.png" width="452.5"><br>
+   </box>
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
+   <box type="wrong">
    * Invalid phone number
    
-   <img src="images/ui/add/invalidhp.png" width="452.5"><br><br>
+   <img src="images/ui/add/invalidhp.png" width="452.5"><br>
    
    * Invalid ID
    
-   <img src="images/ui/add/invalidid.png" width="452.5"><br><br>
+   <img src="images/ui/add/invalidid.png" width="452.5"><br>
 
    * Invalid tag (tag not in tag list)
    
-   <img src="images/ui/add/invalidtag.png" width="452.5"><br><br>
+   <img src="images/ui/add/invalidtag.png" width="452.5" height="350"><br>
    </box>
-
-   
 
 <div style="text-align: right;">
   <a href=#table-of-contents>
@@ -456,8 +459,7 @@ Upon successful log out, you will see a similar GUI as illustrated below.<br>
     </a>
   </div>
 
----
-<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
+
 
 ### Deleting a contact: `-`
 
@@ -672,13 +674,13 @@ E.g `? jo a` will give `John` and `Ali` if both of them exists in the address bo
 
 Example:
   <box type="definition">
-    Finding with one `(keyword)`: <code> ? al </code><br><br>
-    <img src="images/ui/find/1.png" width="452.5" height="360.5"><br><br>
+    Finding with one `(keyword)`: <code> ? al </code><br>
+    <img src="images/ui/find/1.png" width="452.5" height="350.5"><br>
   </box>
 
   <box type="definition" theme="info">
-    Finding with more than one `(keyword)`: <code> ? al ch </code><br><br>
-    <img src="images/ui/find/2.png" width="452.5" height="360.5"><br><br>
+    Finding with more than one `(keyword)`: <code> ? al ch </code><br>
+    <img src="images/ui/find/2.png" width="452.5" height="350.5"><br>
   </box>
 
 <div style="text-align: right;">
@@ -686,8 +688,6 @@ Example:
     back to top
     </a>
   </div>
-
----
 
 ### Listing all matching information: `ls`
 
@@ -1032,6 +1032,8 @@ By adding your first contact into Hi:Re, the sample data will be deleted! This f
     Before:<br><br>
     <img src="images/ui/sampledata/before.png" width="452.5" height="350.5"><br><br>
   </box>
+
+<div style="page-break-after: always; visibility: hidden"> \pagebreak </div>
 
   <box type="definition" theme="info">
     After:<br><br>

@@ -35,7 +35,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "hi-re-developer-guide": "Hi:Re Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -47,7 +47,7 @@
         "common-classes": "Common classes",
         "implementation": "Implementation",
         "implemented-edit-feature": "[Implemented] Edit feature",
-        "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
+        "implemented-undo-redo-feature": "[Implemented] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
@@ -59,6 +59,7 @@
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
         "adding-a-contact": "Adding a contact",
+        "editing-a-contact": "Editing a contact",
         "deleting-a-contact": "Deleting a contact",
         "clearing-the-addressbook": "Clearing the addressbook",
         "adding-tags": "Adding tags",
@@ -66,7 +67,12 @@
         "register-an-account": "Register an account",
         "login-an-account": "Login an account",
         "logout-an-account": "Logout an account",
-        "saving-data": "Saving data"
+        "appendix-effort": "Appendix: Effort",
+        "difficulty-level": "Difficulty Level",
+        "challenges-faced": "Challenges Faced",
+        "effort-required": "Effort Required",
+        "achievements-of-project": "Achievements of Project",
+        "code-reuse": "Code Reuse"
       },
       "headingKeywords": {}
     },
